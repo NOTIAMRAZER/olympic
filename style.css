@@ -1,0 +1,19 @@
+.body_backgorund {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRix9j2cI_XFy_VBjyz1VM12I_-2efaDc6w5g&usqp=CAU");
+    background-position: center;
+    background-size: cover;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      background-color: white; 
+      border-style:ridge;
+  }
+  span
+  {
+      font-size: 20px;
+  }
